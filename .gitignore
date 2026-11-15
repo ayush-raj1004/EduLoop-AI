@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
+.DS_Store
+*.log
+outputs/*.db
+outputs/*.db-journal
+outputs/lessons/*
+outputs/reports/*
+!outputs/lessons/.gitkeep
+!outputs/reports/.gitkeep
